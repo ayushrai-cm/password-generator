@@ -4,14 +4,14 @@ A secure and customizable command-line Password Generator built in Python. It he
 
 ## Features
 
--Generate secure random passwords
--Customizable length (4–64 characters)
--Option to include:
--Uppercase letters
--Digits
--Symbols
--Generates multiple passwords at once
--Input validation for better user experience
+- Generate secure random passwords
+- Customizable length (4–64 characters)
+- Option to include:
+- Uppercase letters
+- Digits
+- Symbols
+- Generates multiple passwords at once
+- Input validation for better user experience
 
 ## How to Run
 
@@ -21,6 +21,6 @@ python password_generator.py
 
 ## Tech Used
 
--Python
--secrets module (for secure randomness)
--string module
+- Python
+- secrets module (for secure randomness)
+- string module
